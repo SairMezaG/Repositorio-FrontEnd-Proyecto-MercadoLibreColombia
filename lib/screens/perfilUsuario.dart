@@ -37,7 +37,7 @@ class PerfilUsuario extends StatelessWidget {
                 height: 10,
               ),
               const Text(
-                'Mario Benedetti',
+                'Shawdon Garden',
                 style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
               ),
               const SizedBox(
@@ -74,7 +74,7 @@ class PerfilUsuario extends StatelessWidget {
                         color: Colors.blue,
                       ),
                       title: const Text('Número de teléfono'),
-                      trailing: const Text('310 2345678'),
+                      trailing: const Text('302 525 11 08'),
                       onTap: () {
                         
                       },

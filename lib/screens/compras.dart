@@ -38,7 +38,7 @@ class Compras extends StatelessWidget {
         price: 129.99,
       ),
       Product(
-        name: 'Tarjeta Gráfica NVIDIA GeForce RTX 3080',
+        name: 'Tarjeta Gráfica ',
         imageUrl:
             'https://www.gamerscolombia.com/img/products/TARJETA-GRFICA-EVGA-GEFORCE-RTX-3080-FTW3/EVGA-GEFORCE-RTX-3080-FTW316536521151.png',
         price: 699.99,
